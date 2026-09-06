@@ -71,7 +71,6 @@ This portfolio case does not make a real-world SAR/STR determination. The exampl
 ├── synthetic_transactions.csv
 └── transaction_monitoring.py
 `
-
 ## Learning Outcomes
 
 This project demonstrates the ability to:
