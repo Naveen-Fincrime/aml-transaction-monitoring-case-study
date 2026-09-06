@@ -1,14 +1,22 @@
 # Case Summary — CUST-1007
 
-**Risk rating:** High
+**Segment:** Retail  
+**Existing risk:** High
 
-**Primary indicators:**
-- Multiple large incoming credits
-- Several credits between INR 450,000–500,000
-- Rapid movement of funds after incoming payments
-- International transfers to UAE, Singapore and UK
-- Multiple unrelated counterparties
+## Key observations
 
-**Illustrative recommendation:** Escalate for Enhanced Due Diligence / further investigation.
+- Multiple large incoming credits on 18 August 2026.
+- Incoming values clustered around INR 4.5–5.0 lakh.
+- Foreign debit to UAE on the same day.
+- Foreign debit to Singapore on 19 August.
+- Additional large incoming credits on 20 August.
+- ₹960,000 foreign debit to the UK after those credits.
+- Activity is materially different from the customer's earlier routine behaviour.
+
+## Illustrative assessment
+
+**Recommended: Enhanced Due Diligence / further investigation.**
+
+The case demonstrates risk-based investigation rather than treating any single transaction as proof of financial crime.
 
 **Data status:** 100% synthetic portfolio data.
