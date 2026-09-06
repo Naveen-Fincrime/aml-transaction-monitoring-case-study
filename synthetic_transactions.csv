@@ -1,0 +1,51 @@
+Transaction_ID,Date,Customer_ID,Customer_Segment,Customer_Risk,Direction,Amount_INR,Counterparty_Country,Channel,Description
+TXN-0002,2026-08-09,CUST-1001,Retail,Low,Credit,7200,India,Online,Routine account activity
+TXN-0004,2026-08-14,CUST-1001,Retail,Low,Credit,4500,India,Online,Routine account activity
+TXN-0001,2026-08-21,CUST-1001,Retail,Low,Credit,4500,India,Branch,Routine account activity
+TXN-0003,2026-08-24,CUST-1001,Retail,Low,Credit,4500,India,Branch,Routine account activity
+TXN-0005,2026-08-07,CUST-1002,Retail,Medium,Credit,7200,India,Branch,Routine account activity
+TXN-0006,2026-08-07,CUST-1002,Retail,Medium,Debit,24000,India,Online,Routine account activity
+TXN-0007,2026-08-15,CUST-1002,Retail,Medium,Debit,18000,India,Online,Routine account activity
+TXN-0008,2026-08-25,CUST-1002,Retail,Medium,Credit,35000,India,Branch,Routine account activity
+TXN-0011,2026-08-03,CUST-1003,Small Business,Medium,Credit,12500,India,Mobile App,Routine account activity
+TXN-0010,2026-08-07,CUST-1003,Small Business,Medium,Debit,35000,India,Online,Routine account activity
+TXN-0009,2026-08-14,CUST-1003,Small Business,Medium,Debit,9800,India,Online,Routine account activity
+TXN-0050,2026-08-22,CUST-1003,Small Business,Medium,Debit,310000,India,Branch,Declared business activity
+TXN-0012,2026-08-28,CUST-1003,Small Business,Medium,Debit,9800,India,Online,Routine account activity
+TXN-0014,2026-08-03,CUST-1004,Retail,Low,Debit,18000,India,Branch,Routine account activity
+TXN-0016,2026-08-07,CUST-1004,Retail,Low,Credit,24000,India,Online,Routine account activity
+TXN-0015,2026-08-20,CUST-1004,Retail,Low,Debit,35000,India,Branch,Routine account activity
+TXN-0013,2026-08-24,CUST-1004,Retail,Low,Credit,12500,India,Mobile App,Routine account activity
+TXN-0019,2026-08-09,CUST-1005,Retail,Medium,Debit,12500,India,Online,Routine account activity
+TXN-0020,2026-08-12,CUST-1005,Retail,Medium,Credit,9800,India,Branch,Routine account activity
+TXN-0017,2026-08-22,CUST-1005,Retail,Medium,Debit,7200,India,Online,Routine account activity
+TXN-0018,2026-08-28,CUST-1005,Retail,Medium,Credit,7200,India,Mobile App,Routine account activity
+TXN-0021,2026-08-09,CUST-1006,Small Business,High,Credit,24000,India,Branch,Routine account activity
+TXN-0049,2026-08-12,CUST-1006,Small Business,High,Credit,275000,India,Branch,Declared business activity
+TXN-0023,2026-08-15,CUST-1006,Small Business,High,Debit,12500,India,Branch,Routine account activity
+TXN-0022,2026-08-21,CUST-1006,Small Business,High,Credit,7200,India,Online,Routine account activity
+TXN-0024,2026-08-23,CUST-1006,Small Business,High,Credit,18000,India,Branch,Routine account activity
+TXN-0027,2026-08-09,CUST-1007,Retail,High,Credit,4500,India,Branch,Routine account activity
+TXN-0025,2026-08-11,CUST-1007,Retail,High,Credit,35000,India,Online,Routine account activity
+TXN-0041,2026-08-18,CUST-1007,Retail,High,Credit,490000,India,Online,Incoming payment from unrelated business
+TXN-0042,2026-08-18,CUST-1007,Retail,High,Credit,495000,India,Online,Incoming payment from unrelated individual
+TXN-0043,2026-08-18,CUST-1007,Retail,High,Credit,498000,India,Mobile App,Incoming payment from unrelated individual
+TXN-0044,2026-08-18,CUST-1007,Retail,High,Debit,485000,UAE,Online,International transfer shortly after credits
+TXN-0045,2026-08-19,CUST-1007,Retail,High,Debit,470000,Singapore,Online,International transfer
+TXN-0046,2026-08-20,CUST-1007,Retail,High,Credit,492000,India,Mobile App,Incoming payment from unrelated individual
+TXN-0047,2026-08-20,CUST-1007,Retail,High,Credit,497000,India,Mobile App,Incoming payment from unrelated individual
+TXN-0048,2026-08-20,CUST-1007,Retail,High,Debit,960000,UK,Online,International transfer after multiple credits
+TXN-0026,2026-08-27,CUST-1007,Retail,High,Debit,4500,India,Mobile App,Routine account activity
+TXN-0028,2026-08-29,CUST-1007,Retail,High,Debit,24000,India,Online,Routine account activity
+TXN-0031,2026-08-08,CUST-1008,Retail,Low,Debit,24000,India,Branch,Routine account activity
+TXN-0030,2026-08-15,CUST-1008,Retail,Low,Debit,7200,India,Online,Routine account activity
+TXN-0032,2026-08-19,CUST-1008,Retail,Low,Debit,12500,India,Mobile App,Routine account activity
+TXN-0029,2026-08-21,CUST-1008,Retail,Low,Debit,12500,India,Branch,Routine account activity
+TXN-0036,2026-08-03,CUST-1009,Small Business,Medium,Debit,12500,India,Branch,Routine account activity
+TXN-0033,2026-08-08,CUST-1009,Small Business,Medium,Debit,7200,India,Online,Routine account activity
+TXN-0035,2026-08-21,CUST-1009,Small Business,Medium,Debit,7200,India,Branch,Routine account activity
+TXN-0034,2026-08-25,CUST-1009,Small Business,Medium,Credit,4500,India,Online,Routine account activity
+TXN-0040,2026-08-11,CUST-1010,Retail,Medium,Debit,4500,India,Mobile App,Routine account activity
+TXN-0037,2026-08-15,CUST-1010,Retail,Medium,Debit,18000,India,Branch,Routine account activity
+TXN-0038,2026-08-28,CUST-1010,Retail,Medium,Credit,4500,India,Branch,Routine account activity
+TXN-0039,2026-08-29,CUST-1010,Retail,Medium,Debit,18000,India,Branch,Routine account activity
