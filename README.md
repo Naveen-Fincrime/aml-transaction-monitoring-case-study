@@ -64,13 +64,14 @@ This portfolio case does not make a real-world SAR/STR determination. The exampl
 
 ## Project Structure
 
-`aml-transaction-monitoring-case-study/
+```text
+aml-transaction-monitoring-case-study/
 ├── README.md
 ├── CASE_SUMMARY.md
 ├── ENHANCED_ANALYSIS.md
 ├── synthetic_transactions.csv
 └── transaction_monitoring.py
-`
+
 ## Learning Outcomes
 
 This project demonstrates the ability to:
