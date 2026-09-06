@@ -84,3 +84,22 @@ This project demonstrates the ability to:
 - Document an investigation in a structured manner.
 - Form a risk-based recommendation.
 
+## Key Outcome
+
+CUST-1007 was identified for enhanced investigation based on:
+- Repeated high-value incoming credits
+- Increased transaction velocity
+- Significant deviation from prior customer behaviour
+- Rapid movement of funds to foreign jurisdictions
+
+**Recommended disposition:** Enhanced Due Diligence (EDD) / further investigation.
+
+## How to Run
+
+1. Clone or download the repository.
+2. Install Python and Pandas.
+3. Keep `synthetic_transactions.csv` in the same folder as `transaction_monitoring.py`.
+4. Run:
+
+```bash
+python transaction_monitoring.py
