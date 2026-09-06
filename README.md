@@ -71,7 +71,7 @@ aml-transaction-monitoring-case-study/
 ├── ENHANCED_ANALYSIS.md
 ├── synthetic_transactions.csv
 └── transaction_monitoring.py
-
+```
 
 ## Learning Outcomes
 
